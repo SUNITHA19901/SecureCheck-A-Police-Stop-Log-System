@@ -1,5 +1,6 @@
-                                                                    SecureCheck-A-Police-Stop-Log-System
- Introduction
+SecureCheck-A-Police-Stop-Log-System
+
+Introduction
  
 SecureCheck is a digital dashboard system designed to help police departments log, manage, and analyze data from vehicle stops at check posts. Built using Python, MySQL, and Streamlit, it provides an interactive interface for storing and exploring traffic stop data efficiently.
 
